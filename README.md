@@ -1,2 +1,3 @@
 # RST-Colour-Matching-Game-final-submission
 This is my final submission with final code for my Computer Engineering RST
+The purpose of this game is to create pairs of colours shown in pairs on LED's. The program will produce a random combination of colours for a few seconds and the user must memorize the combinations. When the LED's turn off the user must then correctly match the colour to the appropriate colour. The user will use buttons beside the LED's to match the colours. If the player matches all theree pairs correctly they win and a green flash will show to represent a win. If the player is unsuccessful a red light will flash indicating a loss. Once one turn is over and the LED is either shown red or green, the program ends.
